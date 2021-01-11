@@ -1,1 +1,2 @@
-# TreasureHuntGameTrial
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
